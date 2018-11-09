@@ -1,6 +1,8 @@
 # BixbyCalculator
 
-This is a Bixby sample calculator App 
+This is a Bixby sample calculator App
+
+![img1](img/bixby_simulator.png)
 
 # Current functions
 
