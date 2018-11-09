@@ -1,0 +1,4 @@
+train (t-oxlm1vkdsz4pry1ezmddgah7w) {
+  utterance ("[g:Multiplication] (2)[v:Num1] times (2)[v:Num2]")
+  plan (Y2BhEEhLTI0vSU3M1SsuzdULSi1mkEYR8S3NKcksyMlMTizJzM9jEESR9CvNNcQUMmJgZmBkYAKSDEAaBCEALgoA)
+}

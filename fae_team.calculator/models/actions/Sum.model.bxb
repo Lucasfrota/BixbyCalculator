@@ -1,0 +1,32 @@
+action (Sum) {
+  type(Calculation)
+  collect{
+    input (num1) {
+      type (Num1)
+      min (Required)
+      max (One)
+      default-init{
+        intent {
+          goal { Num1 }
+          value {
+            Num1(0)
+          }
+        }
+      }
+    }
+    input (num2) {
+      type (Num2)
+      min (Required)
+      max (One)
+      default-init {
+        intent {
+          goal { Num2 }
+          value {
+            Num2(0)
+          }
+        }
+      }
+    }
+  }
+  output (Res)
+}

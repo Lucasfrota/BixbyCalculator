@@ -1,0 +1,29 @@
+endpoints {
+  authorization {
+    none
+  }
+
+  action-endpoints {
+
+    action-endpoint (Sum) {
+      accepted-inputs (num1, num2)
+      local-endpoint ("Sum.js")
+    }
+    
+    action-endpoint (Subtraction) {
+      accepted-inputs (num1, num2)
+      local-endpoint ("Subtraction.js")
+    }
+    
+    action-endpoint (Division) {
+      accepted-inputs (num1, num2)
+      local-endpoint ("Division.js")
+    }
+    
+    action-endpoint (Multiplication) {
+      accepted-inputs (num1, num2)
+      local-endpoint ("Multiplication.js")
+    }
+
+  }
+}

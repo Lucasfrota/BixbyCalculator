@@ -1,0 +1,4 @@
+train (t-25osgmz739zo60zc3m88x4ziw) {
+  utterance ("[g:Sum] (2)[v:Num1] plus (2)[v:Num2]")
+  plan (Y2BhEEhLTI0vSU3M1SsuzdULSi1GEwkuzWUQRBHxK801xBQyYmBmYGRgApIMQBoEIQAuCgA=)
+}

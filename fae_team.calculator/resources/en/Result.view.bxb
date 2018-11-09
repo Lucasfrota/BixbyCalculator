@@ -1,0 +1,21 @@
+result-view{
+  match{
+    Res(res)
+  }
+  
+  render {
+    layout {
+      section {
+        content {
+          single-line {
+            text {
+              style (Detail_M)
+              value ("The result is: #{value(res)}")
+            }
+          }
+
+        }
+      }
+    }
+  }
+}

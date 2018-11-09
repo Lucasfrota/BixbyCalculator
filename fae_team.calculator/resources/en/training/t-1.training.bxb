@@ -1,0 +1,4 @@
+train (t-1hm0ep964ewub0faz8cpr4iqg) {
+  utterance ("[g:Subtraction] (2)[v:Num1] minus (2)[v:Num2]")
+  plan (Y2BhEEhLTI0vSU3M1SsuzdULSi1mkEARCS5NKilKTC7JzM9jEESR8SvNNcQUMmJgZmBkYAKSDEAaBCEALgoA)
+}
